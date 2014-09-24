@@ -1,7 +1,7 @@
 div{
-    border: solid;
-    color: red
+    border: solid; width: 5
+    color: lime;
 }
 body{
-   background-color: blue
+   background-color: graytext;
 }
